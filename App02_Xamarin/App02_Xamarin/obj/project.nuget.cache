@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIrOGf2D8r0TxmoWZXwVQtP9tEGds/5+iaWUAIGWLnv/9u85AhI/4YUjkzA6bIlxWj9YicjbMRmyKZh5rNPGZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ingri\\source\\repos\\App02_Xamarin\\App02_Xamarin\\App02_Xamarin\\App02_Xamarin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ingri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
