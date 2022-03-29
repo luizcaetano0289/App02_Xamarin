@@ -169,8 +169,14 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ingri\source\repos\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Fundo.png">
+      <PackagePath>Fundo.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ingri\source\repos\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Logo.png">
       <PackagePath>Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ingri\source\repos\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Perfil.png">
+      <PackagePath>Perfil.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ingri\source\repos\App02_Xamarin\App02_Xamarin\App02_Xamarin.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
